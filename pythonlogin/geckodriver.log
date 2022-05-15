@@ -1,0 +1,143 @@
+1649324117145	geckodriver	INFO	Listening on 127.0.0.1:63200
+1649324120191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63201" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilebvXylO"
+1649324120603	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilebvXylO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63201/devtools/browser/3b9ce469-2a03-4212-a089-090afcc05f65
+1649324123290	Marionette	INFO	Listening on port 63206
+1649324123390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649324194446	Marionette	INFO	Stopped listening on port 63206
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649324849187	geckodriver	INFO	Listening on 127.0.0.1:52362
+1649324852241	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52363" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilek8gd7U"
+1649324852857	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilek8gd7U\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52363/devtools/browser/a16678c2-6834-43d0-861c-5ab3045ada02
+1649324856003	Marionette	INFO	Listening on port 52371
+1649324856490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://d088c974-c8f4-45cf-b842-d4781a4b5b30"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://d088c974-c8f4-45cf-b842-d4781a4b5b30"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A4040%2Fauth%2Fgoogle%2Fcallback&scope=profile%20email&client_id=922941033005-jaqiqeri90g5bdf1ijnou3ua1e7bep36.apps.googleusercontent.com line 1 > eval line 404 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A4040%2Fauth%2Fgoogle%2Fcallback&scope=profile%20email&client_id=922941033005-jaqiqeri90g5bdf1ijnou3ua1e7bep36.apps.googleusercontent.com line 1 > eval line 3392 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A4040%2Fauth%2Fgoogle%2Fcallback&scope=profile+email&client_id=922941033005-jaqiqeri90g5bdf1ijnou3ua1e7bep36.apps.googleusercontent.com&flowName=GeneralOAuthFlow line 1 > eval line 2370 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A4040%2Fauth%2Fgoogle%2Fcallback&scope=profile+email&client_id=922941033005-jaqiqeri90g5bdf1ijnou3ua1e7bep36.apps.googleusercontent.com&flowName=GeneralOAuthFlow line 1 > eval line 5783 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A4040%2Fauth%2Fgoogle%2Fcallback&scope=profile+email&client_id=922941033005-jaqiqeri90g5bdf1ijnou3ua1e7bep36.apps.googleusercontent.com&flowName=GeneralOAuthFlow line 1 > eval line 1799 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yg/l/en_GB/tNZbOVEkFcm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://d088c974-c8f4-45cf-b842-d4781a4b5b30"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A4040%2Fauth%2Fgoogle%2Fcallback&scope=profile%20email&client_id=922941033005-jaqiqeri90g5bdf1ijnou3ua1e7bep36.apps.googleusercontent.com line 1 > eval line 4380 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A4040%2Fauth%2Fgoogle%2Fcallback&scope=profile+email&client_id=922941033005-jaqiqeri90g5bdf1ijnou3ua1e7bep36.apps.googleusercontent.com&flowName=GeneralOAuthFlow line 1 > eval line 7612 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://accounts.google.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://accounts.google.com/o/oauth2/v2/auth?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A4040%2Fauth%2Fgoogle%2Fcallback&scope=profile+email&client_id=922941033005-jaqiqeri90g5bdf1ijnou3ua1e7bep36.apps.googleusercontent.com&flowName=GeneralOAuthFlow line 1 > eval line 3566 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://d088c974-c8f4-45cf-b842-d4781a4b5b30"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i5pr4/yB/l/en_GB/2ooRsSu7Ljj4bJymxFbxsQ_nWHPjDQO6IeAcjmfJEv35XqkBlU50aJ_JS2jdFCmbgY7rw0iT7Guk_.js?_nc_x=8oZ_kBzJvYJ, line 898: Error: Minified React error #419; visit https://reactjs.org/docs/error-decoder.html?invariant=419 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i5pr4/yB/l/en_GB/2ooRsSu7Ljj4bJymxFbxsQ_nWHPjDQO6IeAcjmfJEv35XqkBlU50aJ_JS2jdFCmbgY7rw0iT7Guk_.js?_nc_x=8oZ_kBzJvYJ, line 898: Error: Minified React error #419; visit https://reactjs.org/docs/error-decoder.html?invariant=419 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i5pr4/yB/l/en_GB/2ooRsSu7Ljj4bJymxFbxsQ_nWHPjDQO6IeAcjmfJEv35XqkBlU50aJ_JS2jdFCmbgY7rw0iT7Guk_.js?_nc_x=8oZ_kBzJvYJ, line 898: Error: Minified React error #419; visit https://reactjs.org/docs/error-decoder.html?invariant=419 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i5pr4/yB/l/en_GB/2ooRsSu7Ljj4bJymxFbxsQ_nWHPjDQO6IeAcjmfJEv35XqkBlU50aJ_JS2jdFCmbgY7rw0iT7Guk_.js?_nc_x=8oZ_kBzJvYJ, line 898: Error: Minified React error #419; visit https://reactjs.org/docs/error-decoder.html?invariant=419 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i5pr4/yB/l/en_GB/2ooRsSu7Ljj4bJymxFbxsQ_nWHPjDQO6IeAcjmfJEv35XqkBlU50aJ_JS2jdFCmbgY7rw0iT7Guk_.js?_nc_x=8oZ_kBzJvYJ, line 898: Error: Minified React error #419; visit https://reactjs.org/docs/error-decoder.html?invariant=419 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i5pr4/yB/l/en_GB/2ooRsSu7Ljj4bJymxFbxsQ_nWHPjDQO6IeAcjmfJEv35XqkBlU50aJ_JS2jdFCmbgY7rw0iT7Guk_.js?_nc_x=8oZ_kBzJvYJ, line 898: Error: Minified React error #419; visit https://reactjs.org/docs/error-decoder.html?invariant=419 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i5pr4/yB/l/en_GB/2ooRsSu7Ljj4bJymxFbxsQ_nWHPjDQO6IeAcjmfJEv35XqkBlU50aJ_JS2jdFCmbgY7rw0iT7Guk_.js?_nc_x=8oZ_kBzJvYJ, line 898: Error: Minified React error #419; visit https://reactjs.org/docs/error-decoder.html?invariant=419 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i5pr4/yB/l/en_GB/2ooRsSu7Ljj4bJymxFbxsQ_nWHPjDQO6IeAcjmfJEv35XqkBlU50aJ_JS2jdFCmbgY7rw0iT7Guk_.js?_nc_x=8oZ_kBzJvYJ, line 898: Error: Minified React error #419; visit https://reactjs.org/docs/error-decoder.html?invariant=419 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i5pr4/yB/l/en_GB/2ooRsSu7Ljj4bJymxFbxsQ_nWHPjDQO6IeAcjmfJEv35XqkBlU50aJ_JS2jdFCmbgY7rw0iT7Guk_.js?_nc_x=8oZ_kBzJvYJ, line 898: Error: Minified React error #419; visit https://reactjs.org/docs/error-decoder.html?invariant=419 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i5pr4/yB/l/en_GB/2ooRsSu7Ljj4bJymxFbxsQ_nWHPjDQO6IeAcjmfJEv35XqkBlU50aJ_JS2jdFCmbgY7rw0iT7Guk_.js?_nc_x=8oZ_kBzJvYJ, line 898: Error: Minified React error #419; visit https://reactjs.org/docs/error-decoder.html?invariant=419 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i5pr4/yB/l/en_GB/2ooRsSu7Ljj4bJymxFbxsQ_nWHPjDQO6IeAcjmfJEv35XqkBlU50aJ_JS2jdFCmbgY7rw0iT7Guk_.js?_nc_x=8oZ_kBzJvYJ, line 898: Error: Minified React error #419; visit https://reactjs.org/docs/error-decoder.html?invariant=419 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i5pr4/yB/l/en_GB/2ooRsSu7Ljj4bJymxFbxsQ_nWHPjDQO6IeAcjmfJEv35XqkBlU50aJ_JS2jdFCmbgY7rw0iT7Guk_.js?_nc_x=8oZ_kBzJvYJ, line 898: Error: Minified React error #419; visit https://reactjs.org/docs/error-decoder.html?invariant=419 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i5pr4/yB/l/en_GB/2ooRsSu7Ljj4bJymxFbxsQ_nWHPjDQO6IeAcjmfJEv35XqkBlU50aJ_JS2jdFCmbgY7rw0iT7Guk_.js?_nc_x=8oZ_kBzJvYJ, line 898: Error: Minified React error #419; visit https://reactjs.org/docs/error-decoder.html?invariant=419 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i5pr4/yB/l/en_GB/2ooRsSu7Ljj4bJymxFbxsQ_nWHPjDQO6IeAcjmfJEv35XqkBlU50aJ_JS2jdFCmbgY7rw0iT7Guk_.js?_nc_x=8oZ_kBzJvYJ, line 898: Error: Minified React error #419; visit https://reactjs.org/docs/error-decoder.html?invariant=419 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i5pr4/yB/l/en_GB/2ooRsSu7Ljj4bJymxFbxsQ_nWHPjDQO6IeAcjmfJEv35XqkBlU50aJ_JS2jdFCmbgY7rw0iT7Guk_.js?_nc_x=8oZ_kBzJvYJ, line 898: Error: Minified React error #419; visit https://reactjs.org/docs/error-decoder.html?invariant=419 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i5pr4/yB/l/en_GB/2ooRsSu7Ljj4bJymxFbxsQ_nWHPjDQO6IeAcjmfJEv35XqkBlU50aJ_JS2jdFCmbgY7rw0iT7Guk_.js?_nc_x=8oZ_kBzJvYJ, line 898: Error: Minified React error #419; visit https://reactjs.org/docs/error-decoder.html?invariant=419 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i5pr4/yB/l/en_GB/2ooRsSu7Ljj4bJymxFbxsQ_nWHPjDQO6IeAcjmfJEv35XqkBlU50aJ_JS2jdFCmbgY7rw0iT7Guk_.js?_nc_x=8oZ_kBzJvYJ, line 898: Error: Minified React error #419; visit https://reactjs.org/docs/error-decoder.html?invariant=419 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i5pr4/yB/l/en_GB/2ooRsSu7Ljj4bJymxFbxsQ_nWHPjDQO6IeAcjmfJEv35XqkBlU50aJ_JS2jdFCmbgY7rw0iT7Guk_.js?_nc_x=8oZ_kBzJvYJ, line 898: Error: Minified React error #419; visit https://reactjs.org/docs/error-decoder.html?invariant=419 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i5pr4/yB/l/en_GB/2ooRsSu7Ljj4bJymxFbxsQ_nWHPjDQO6IeAcjmfJEv35XqkBlU50aJ_JS2jdFCmbgY7rw0iT7Guk_.js?_nc_x=8oZ_kBzJvYJ, line 898: Error: Minified React error #419; visit https://reactjs.org/docs/error-decoder.html?invariant=419 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3i5pr4/yB/l/en_GB/2ooRsSu7Ljj4bJymxFbxsQ_nWHPjDQO6IeAcjmfJEv35XqkBlU50aJ_JS2jdFCmbgY7rw0iT7Guk_.js?_nc_x=8oZ_kBzJvYJ, line 898: Error: Minified React error #421; visit https://reactjs.org/docs/error-decoder.html?invariant=421 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3igiS4/yU/l/en_GB/qlloNhPARE-.js?_nc_x=8oZ_kBzJvYJ, line 168: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yg/l/en_GB/tNZbOVEkFcm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yg/l/en_GB/tNZbOVEkFcm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://d088c974-c8f4-45cf-b842-d4781a4b5b30"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://d088c974-c8f4-45cf-b842-d4781a4b5b30"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://d088c974-c8f4-45cf-b842-d4781a4b5b30"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://d088c974-c8f4-45cf-b842-d4781a4b5b30"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: moz-extension://d088c974-c8f4-45cf-b842-d4781a4b5b30/assets/neo.js, line 1: TypeError: p.a.selectedTest.test is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://d088c974-c8f4-45cf-b842-d4781a4b5b30"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yg/l/en_GB/tNZbOVEkFcm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://d088c974-c8f4-45cf-b842-d4781a4b5b30"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://d088c974-c8f4-45cf-b842-d4781a4b5b30"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iX3c4/yg/l/en_GB/tNZbOVEkFcm.js?_nc_x=Ij3Wp8lg5Kz, line 20: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.facebook.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: http://localhost:3000/static/js/0.chunk.js, line 168642: Error: Request aborted
+JavaScript error: http://localhost:3000/static/js/0.chunk.js, line 168642: Error: Request aborted
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "moz-extension://d088c974-c8f4-45cf-b842-d4781a4b5b30"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: moz-extension://d088c974-c8f4-45cf-b842-d4781a4b5b30/assets/neo.js, line 1: TypeError: p.a.selectedTest.test is undefined
+JavaScript error: moz-extension://d088c974-c8f4-45cf-b842-d4781a4b5b30/assets/neo.js, line 1: TypeError: (intermediate value)(...) is not a function
+JavaScript error: moz-extension://d088c974-c8f4-45cf-b842-d4781a4b5b30/assets/neo.js, line 1: TypeError: (intermediate value)(...) is not a function
+JavaScript error: , line 0: uncaught exception: Playback is not running
+JavaScript error: , line 0: uncaught exception: Playback is not running
+1649326276995	Marionette	INFO	Stopped listening on port 52371
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
